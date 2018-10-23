@@ -24,5 +24,11 @@
 那个时候也顺势写个这篇文章，[自制vue组件通信插件:教你如何用mixin写插件](https://segmentfault.com/a/1190000015554464)
 ![示意图](https://image-static.segmentfault.com/325/626/3256260828-5b3f4175215d3_articlex)
 
+#### 对前端的总结和探索
+- 用文件的思路去看待自己和其他开发写的代码文件
+- 将代码文件看成对象、文件流，运用node(webpack、gulp)去处理、编辑、整合代码文件
+- 前端模板转译、vue模板转小程序模板
+- javascript沙盒，构建一个js解释器
+
 
 
