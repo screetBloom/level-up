@@ -7,7 +7,7 @@
 
 #### 成长期
 - [美团经历](https://github.com/screetBloom/level-up/issues/5)
-
+- [How strong are you?](https://github.com/screetBloom/level-up/issues/6)
 
 
 
